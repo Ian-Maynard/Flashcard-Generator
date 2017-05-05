@@ -1,0 +1,1 @@
+Front : What class of ship is Serenity? - Back : Firefly class.Front : What class of ship is The Serenity? - Back : A Firefly class ship.Front : Who is the Captain of the Serenity? - Back : Captain Mal ReynoldsFront : Who is the Pilot of the Serenity? - Back : Hoban "Wash" Washburne
